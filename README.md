@@ -1,4 +1,4 @@
-lisp-ci
-=======
+lisp-ide
+========
 
-A simple Ruby CI script for SBCL projects
+Scripts to aid development of SBCL projects
